@@ -105,3 +105,10 @@ OpenZeppelin Contracts is released under the [MIT License](LICENSE).
 ## Legal
 
 Your use of this Project is governed by the terms found at www.openzeppelin.com/tos (the "Terms").
+## Catatan Tambahan
+
+Repositori ini saya fork sebagai bagian dari pembelajaran smart contract menggunakan Solidity dan OpenZeppelin.
+
+Saya akan gunakan ini untuk eksperimen token ERC20 dan NFT.
+
+Kontribusi ini juga ditujukan agar terverifikasi di platform Talent Protocol.
